@@ -1,3 +1,3 @@
 ﻿  PathingAlgorithm.cpp
-C:\DSA_Project_Repo\ET0702 DCPE2A21 Ryan Chan\Program\PathingAlgorithm\PathingAlgorithm.cpp(121,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  PathingAlgorithm.vcxproj -> C:\DSA_Project_Repo\ET0702 DCPE2A21 Ryan Chan\Program\PathingAlgorithm\x64\Debug\PathingAlgorithm.exe
+C:\Users\darre\Desktop\Singapore Polytechnic\Y2S2\DSA\Mini Project\DSA_Project_Repo\ET0702 DCPE2A21 Ryan Chan\Program\PathingAlgorithm\PathingAlgorithm.cpp(138,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PathingAlgorithm.vcxproj -> C:\Users\darre\Desktop\Singapore Polytechnic\Y2S2\DSA\Mini Project\DSA_Project_Repo\ET0702 DCPE2A21 Ryan Chan\Program\PathingAlgorithm\x64\Debug\PathingAlgorithm.exe

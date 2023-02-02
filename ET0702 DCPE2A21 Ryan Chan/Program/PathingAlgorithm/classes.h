@@ -20,4 +20,5 @@ class Job { // I'm leaving all parameters private because it's so much easier
 public:
     string from;
     string to;
+    string ID;
 };
